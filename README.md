@@ -46,3 +46,8 @@ Load pairs.json and the fine-tuned model, then run the notebook.
 
 - `pythonCode.ipynb` — full notebook with all steps
 - `pairs.json` — 700 generated query-document pairs
+
+## Model
+
+Fine-tuned models available on HuggingFace:  
+https://huggingface.co/jayeshkumeriya/sanskrit-gita-retrieval
